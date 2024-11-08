@@ -29,6 +29,10 @@
             pkgs.nodePackages.typescript
             pkgs.nodePackages.typescript-language-server
           ];
+
+          shellHook = ''
+          echo "Welcome to Yunzdle Dev Shell"
+          '';
         };
       });
     };

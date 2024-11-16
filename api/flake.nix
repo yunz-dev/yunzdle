@@ -13,7 +13,6 @@
       devShells = eachSystem (pkgs: {
         default = pkgs.mkShell {
           buildInputs = [
-            pkgs.nodejs
             pkgs.python3
             pkgs.python312Packages.pip
 
@@ -27,13 +26,10 @@
             # Optionally, you can add yarn or pnpm for package management for node.
             # pkgs.nodePackages.pnpm
             # pkgs.yarn
-
-            pkgs.nodePackages.typescript
-            pkgs.nodePackages.typescript-language-server
           ];
 
           shellHook = ''
-          echo "Welcome to Yunzdle Dev Shell"
+          echo "Welcome to Yunzdle API Dev Shell"
           '';
         };
       });

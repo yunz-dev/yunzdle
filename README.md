@@ -8,11 +8,11 @@ Stay tuned for updates! 🔧🔨
 
 
 ## Technologies:
-### Vue.js
+### Vue.js 🌐
 responsive front end
-### FastAPI
+### FastAPI ⚡
 backend logic
-### Google Sheets
+### Google Sheets 📝
 human readable database
-### Google Gemini
+### Google Gemini 🤖
 ai integration

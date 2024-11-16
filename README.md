@@ -8,11 +8,11 @@ Stay tuned for updates! 🔧🔨
 
 
 ## Technologies:
-**Vue.js 🌐**:  responsive front end
-**FastAPI ⚡**: backend logic
-**Google Sheets 📝**: human readable database
-**Google Gemini 🤖**: ai integration
-**Redis 📚**: cache layer for lower API calls
-**Nix** ❄️: Declarative dev environment
-**Docker** 🐳: Containerisation
-**AWS** ☁️: cloud hosting
+- **Vue.js 🌐**:  responsive front end
+- **FastAPI ⚡**: backend logic
+- **Google Sheets 📝**: human readable database
+- **Google Gemini 🤖**: ai integration
+- **Redis 📚**: cache layer for lower API calls
+- **Nix** ❄️: Declarative dev environment
+- **Docker** 🐳: Containerisation
+- **AWS** ☁️: cloud hosting

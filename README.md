@@ -16,3 +16,5 @@ backend logic
 human readable database
 ### Google Gemini 🤖
 ai integration
+### Redis 📚
+cache layer for lower API calls

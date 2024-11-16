@@ -8,6 +8,7 @@ Stay tuned for updates! 🔧🔨
 
 
 ## Technologies:
+___
 - **Vue.js 🌐**:  responsive front end
 - **FastAPI ⚡**: backend logic
 - **Google Sheets 📝**: human readable database
@@ -16,3 +17,10 @@ Stay tuned for updates! 🔧🔨
 - **Nix** ❄️: Declarative dev environment
 - **Docker** 🐳: Containerisation
 - **AWS** ☁️: cloud hosting
+
+## Future:
+**Games:**
+- [ ] connections
+- [ ] wordle
+- [ ] emoji
+- [ ] pinpoint
